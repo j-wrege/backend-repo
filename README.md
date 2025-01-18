@@ -35,8 +35,11 @@ Setup Instructions:
 
 5. Start the server in production mode:
    npm start
+
+6. Install nodemon globally:
+   npm install -g nodemon
    
-6. Start the server:
+7. Start the server:
    npx nodemon server.js
 
 Folder Structure:
